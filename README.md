@@ -1,1 +1,2 @@
-I use this repository to upload small project
+#Ayo!
+This repository use to upload small python project
